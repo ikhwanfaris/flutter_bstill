@@ -1,0 +1,25 @@
+{
+    "@@locale": "zh",
+    
+    "back" : "退",
+    "about" : "关于",
+    "ok":"行",
+    "submit" : "提交",
+    "loading" : "正在加载。请耐心等待...",
+    "more" : "更多",
+    "no" : "不是...",
+    "yes" : "是...",
+    "done" : "完成了",
+    "next" : "下一个",
+    "email": "电子邮件",
+    "password": "密码",
+    "forgotPwd": "忘记密码？",
+    "dontHaveAccount": "没有账户？",
+    "createNow": "在这里注册",
+    "loginAsGuest" : "以访客身份登录",
+    "login" : "登陆",
+    "save": "保存",
+    "selectLanguages":  "更改默认语言",
+    "home": "主页",
+    "search": "搜索"
+}

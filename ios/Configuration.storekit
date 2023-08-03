@@ -1,0 +1,85 @@
+{
+  "identifier" : "CF159540",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "425E72D0",
+      "localizations" : [
+
+      ],
+      "name" : "bstill_premium",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "9.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "C52A35A7",
+          "introductoryOffer" : {
+            "internalID" : "86D04CDE",
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P1W"
+          },
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "BSTILL_ONEMONTH",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Premium One Month",
+          "subscriptionGroupID" : "425E72D0",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "99.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "37C0505E",
+          "introductoryOffer" : {
+            "internalID" : "2AFCCF29",
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P1W"
+          },
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "BSTILL_ONEYEAR",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "Premium One Year",
+          "subscriptionGroupID" : "425E72D0",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}

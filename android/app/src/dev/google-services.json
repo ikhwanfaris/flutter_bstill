@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "983365844177",
+    "project_id": "bstill-2db39",
+    "storage_bucket": "bstill-2db39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983365844177:android:0a30d9731f4846b94f59f0",
+        "android_client_info": {
+          "package_name": "com.app.bstill.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983365844177-tlijbn8iefte623g6o6fouulq713l18c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM5eLuJXkfiZx9ium7_zIHyDidBu8c_X0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983365844177-tlijbn8iefte623g6o6fouulq713l18c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "983365844177-36tr88d7hb77q2qtjodt4v3fs7nv5lrs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.bstill"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
